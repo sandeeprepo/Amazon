@@ -2,6 +2,6 @@
 	{
 		public ststic void main(String args[])
 		{
-		System.out.println("Sandeep");
+		System.out.println("Sandeep1");
 		}
 	}		
